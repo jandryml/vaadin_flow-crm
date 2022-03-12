@@ -5,7 +5,7 @@ It contains all the necessary configuration and some placeholder files to get yo
 
 #### Deployed on: 
 https://vaadin-crm-dj.herokuapp.com/
-
+credentials: user : password
 ## Running the application
 
 The project is a standard Maven project. To run it from the command line,
